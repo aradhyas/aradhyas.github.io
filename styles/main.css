@@ -7099,6 +7099,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a {
   position: relative;
+  background-size: cover;
 }
 
 .cc-profile-image a:before {
