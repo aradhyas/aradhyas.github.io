@@ -1,2 +1,2 @@
 # aradhyas.github.io
-My portoflio
+My portfolio
